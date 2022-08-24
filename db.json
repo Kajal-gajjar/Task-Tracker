@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Doctor Appointment",
+      "day": "Aug 25th 2022 at 12 PM",
+      "reminder": true
+    },
+    {
+      "text": "Take Test",
+      "day": "27th Aug 12 PM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Revise the Frequency counter",
+      "day": "24th Aug at 2.30 PM",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
